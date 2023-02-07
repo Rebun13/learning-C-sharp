@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\TestDependencies\\TestDependencies.csproj": {}
+    "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\Debugging\\Debugging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\TestDependencies\\TestDependencies.csproj": {
+    "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\Debugging\\Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\TestDependencies\\TestDependencies.csproj",
-        "projectName": "TestDependencies",
-        "projectPath": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\TestDependencies\\TestDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\Debugging\\Debugging.csproj",
+        "projectName": "Debugging",
+        "projectPath": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\Debugging\\Debugging.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\TestDependencies\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\Documents\\GitHub\\learning-C-sharp\\Debugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Humanizer": {
-              "target": "Package",
-              "version": "[2.14.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
