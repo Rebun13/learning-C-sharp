@@ -1,0 +1,15 @@
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\bin\Release\net7.0\Debugging.exe
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\bin\Release\net7.0\Debugging.deps.json
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\bin\Release\net7.0\Debugging.runtimeconfig.json
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\bin\Release\net7.0\Debugging.dll
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\bin\Release\net7.0\Debugging.pdb
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.csproj.AssemblyReference.cache
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.AssemblyInfo.cs
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.dll
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\refint\Debugging.dll
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.pdb
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\Debugging.genruntimeconfig.cache
+C:\Users\ruben\Documents\GitHub\learning-C-sharp\Debugging\obj\Release\net7.0\ref\Debugging.dll
