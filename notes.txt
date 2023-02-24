@@ -1,7 +1,0 @@
-Install a new package:
-    dotnet add package <package_name> [--version <version_no>]
-
-List installed packages:
-    dotnet list package
-List outdated packages:
-    dotnet list package --outdated
